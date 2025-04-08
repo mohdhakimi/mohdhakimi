@@ -33,4 +33,4 @@ Currently working toward building end-to-end Machine Learning projects using rea
 
 *Looking to collaborate on healthcare data projects or discuss potential applications of AI in medical technology? Feel free to reach out!*
 
->new line
+
